@@ -10,12 +10,8 @@ This system helps shop owners manage products, sales, and stock efficiently with
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [Installation & Setup](#-installation--setup)
 - [Usage](#-usage)
-- [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 
 ---
@@ -56,4 +52,38 @@ It’s ideal for **small and medium-sized stores** looking to modernize their in
 ---
 
 ## 📁 Project Structure
+smart-shop-inventory/
+│
+├── app.py # Main Flask application
+├── config.py # Database configuration file
+├── requirements.txt # Python dependencies
+├── database/
+│ └── smartshop.sql # MySQL database file
+├── static/ # CSS, JS, and images
+├── templates/ # HTML templates
+└── README.md # Documentation file
 
+---
+
+## 🧭 Usage
+
+✅ Log in as Admin
+✅ Add products and categories
+✅ Record sales and generate bills
+✅ View dashboard reports and stock updates
+
+---
+
+## 🔮 Future Enhancements
+
+✅ Add barcode scanning support
+✅ Generate PDF/Excel reports
+✅ Low-stock email notifications
+✅ Multi-user roles (Admin, Cashier, Manager)
+✅ Cloud-based deployment
+
+## 💬 Contact
+
+Developer: Zahid Al Mahmud
+📧 Email: mdzahidhasan096@gmail.com
+🌐 GitHub: https://github.com/zahid096
