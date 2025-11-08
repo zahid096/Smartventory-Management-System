@@ -1,4 +1,4 @@
-# 🛍️ Smart Shop Inventory Management System
+# 🛍️ Smartventory Management System
 
 A complete web-based **Inventory Management System** built with **Flask (Python)**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.  
 This system helps shop owners manage products, sales, and stock efficiently with an intuitive, modern interface.
